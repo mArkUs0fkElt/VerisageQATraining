@@ -1,0 +1,41 @@
+Waterfall  Model
+1 - Requirement Analysis
+  -Capture all the requirements
+  -Do brainstorming and wlakthrough to understand the requirements
+  -Do the requirements feasability test to ensure that the requirements are testable or not
+  Deliverables: RUD, Requirements Understanding Document
+  
+2 - System Design
+  -As per the requirements, create teh design
+  -Capture teh hardware/software requirements
+  -Document the designs
+  Deliverables: HLD, High Level Design document; LLD, Low Level Design document
+  
+3 - Implementation
+  -As per the design, create the programs/code
+  -Integrate the codes for the next phase
+  -Unit testing of the code
+  Deliverables: Programs Unit test cases and results
+  
+4 - System Testing
+  -Integrate the unit tested code and test it to make sure it to make sure if it works as expected
+  -Perform all the testing activities (functional and non-functional) to make sure that the system meets the requirements
+  -In case of any anomaly, report it
+  -Track your progress on testing through toold like traceability metrics, ALM
+  -Report your testing activities
+  Deliverables: Test cases, Test reports, Defect report, Updated matrices
+
+5 - System Deployment
+  -Make sure that the environment is up
+  -Make sure that there are no sev 1 defects open
+  -Make sure that the test exit criteria are met
+  -Deploy the application in the respective environment
+  -Perform a sanity check in the environment after the application is deployed to ensure the application does not break
+  Deliverables: User Manual, Environment definition/specification
+  
+6 - System Maintenance
+  -Make sure that the application is up and running in the respective environment
+  -In case user encounters and defect, make sure to note and fix the issues faced
+  -In case any issue is fixed; the updated code is deployed in the environment
+  -The application is always enhanced to incorporate more features, update the environment with the latest features
+  Deliverables: User manual, List of production tickets, list of new features implemented
